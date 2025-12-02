@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@skartik.author">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.npmjs.com/package/date-difference-lib?activeTab=readme">
+  <a href="https://www.npmjs.com/~skartik.author">
     <img src="https://img.shields.io/badge/npm-Node%20Packages-CB0000?style=flat&logo=npm&logoColor=white" />
   </a>
 </p>
