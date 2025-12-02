@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Kartik Subramaniam 👋</h1>
+<p align="center">
 <a href="https://github.com/kartik1211?tab=repositories&sort=stargazers">
   <img src="https://img.shields.io/github/stars/kartik1211?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub User's stars"/>
 </a>
+</p>
 
 
 <p align="center">
@@ -29,7 +31,7 @@
 - ✍️ I write on Medium about JavaScript, open-source, & developer productivity.
 - 🤝 Looking to collaborate on **open source**, **npm packages**, or **automation tools**.
 - 🔭 I’m currently working on AI Projects
-- 🤔 I’m looking for help with [https://github.com/YOUR_USERNAME/PROJECT_1](https://github.com/kartik1211/date-difference-lib)  
+- 🤔 I’m looking for help with [Date time difference JS library](https://github.com/kartik1211/date-difference-lib)  
 ---
 
 ## 🔥 Highlighted Projects
@@ -38,8 +40,8 @@
 This library provides a function to calculate the difference between two dates in years, months, and days.
 
 **Tech:** JavaScript  
-**Repo:** [https://github.com/YOUR_USERNAME/PROJECT_1](https://github.com/kartik1211/date-difference-lib)  
-**Live Demo / npm:** [https://npmjs.com/package/PACKAGE_1](https://www.npmjs.com/package/date-difference-lib?activeTab=readme)
+**Repo:** [Date time difference JS library](https://github.com/kartik1211/date-difference-lib)  
+**Live Demo / npm:** [Date time difference JS library](https://www.npmjs.com/package/date-difference-lib?activeTab=readme)
 
 ---
 
@@ -47,7 +49,7 @@ This library provides a function to calculate the difference between two dates i
 MEAN Stack application using Angular 4.0
 
 **Tech:** Angular, NodeJS, JWT Authentication 
-**Repo:** https://github.com/YOUR_USERNAME/PROJECT_2  
+**Repo:** [Angular Social Media Project](https://github.com/kartik1211/Angular-4-Social-Media)
 
 ---
 
@@ -55,7 +57,7 @@ MEAN Stack application using Angular 4.0
 Basic React Project.
 
 **Tech:** ReactJS  
-**Repo:** [https://github.com/YOUR_USERNAME/PROJECT_3  ](https://github.com/kartik1211/ReactJS-Project)
+**Repo:** [ReactJSProject](https://github.com/kartik1211/ReactJS-Project)
 
 ---
 
