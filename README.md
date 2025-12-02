@@ -1,19 +1,5 @@
-## Hi there 👋
-
-**kartik1211/kartik1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <h1 align="center">Hi, I'm Kartik Subramaniam 👋</h1>
+![GitHub User's stars](https://img.shields.io/github/stars/kartik1211?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
 
 <p align="center">
   <b>Developer • Open Source Builder • Tech Writer</b>
@@ -39,7 +25,8 @@ Here are some ideas to get you started:
 - 🧠 Currently exploring: **AI tooling**, **CLI tools**, **high-performance JavaScript**, **Rust**, and **automation**.
 - ✍️ I write on Medium about JavaScript, open-source, & developer productivity.
 - 🤝 Looking to collaborate on **open source**, **npm packages**, or **automation tools**.
-
+- 🔭 I’m currently working on AI Projects
+- 🤔 I’m looking for help with [https://github.com/YOUR_USERNAME/PROJECT_1](https://github.com/kartik1211/date-difference-lib)  
 ---
 
 ## 🔥 Highlighted Projects
