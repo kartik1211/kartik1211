@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/kartik1211">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/kartik1211?label=Follow&style=social" />
   </a>
   <a href="https://medium.com/@skartik.author">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
