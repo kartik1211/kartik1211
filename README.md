@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Kartik Subramaniam 👋</h1>
-![GitHub User's stars](https://img.shields.io/github/stars/kartik1211?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+<a href="https://github.com/kartik1211?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/kartik1211?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub User's stars"/>
+</a>
+
 
 <p align="center">
   <b>Developer • Open Source Builder • Tech Writer</b>
