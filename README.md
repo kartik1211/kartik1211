@@ -28,7 +28,7 @@
 ## 🚀 About Me
 
 - 🔧 I build tools, libraries, and developer-focused utilities.
-- 🧠 Currently exploring: **AI tooling**, **CLI tools**, **high-performance JavaScript**, **Rust**, and **automation**.
+- 🧠 Currently exploring: **AI tooling**, **CLI tools**, **high-performance JavaScript**, **Building libraries**, and **Artificial Intelligence**.
 - ✍️ I write on Medium about JavaScript, open-source, & developer productivity.
 - 🤝 Looking to collaborate on **open source**, **npm packages**, or **automation tools**.
 - 🔭 I’m currently working on AI Projects
