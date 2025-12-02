@@ -20,10 +20,11 @@
   <a href="https://www.npmjs.com/~skartik.author">
     <img src="https://img.shields.io/badge/npm-Node%20Packages-CB0000?style=flat&logo=npm&logoColor=white" />
   </a>
+<a href="https://www.linkedin.com/in/skartik25/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
-
 ---
-
 ## 🚀 About Me
 
 - 🔧 I build tools, libraries, and developer-focused utilities.
@@ -34,31 +35,63 @@
 - 🤔 I’m looking for help with [Date time difference JS library](https://github.com/kartik1211/date-difference-lib)  
 ---
 
-## 🔥 Highlighted Projects
+<table>
+<tr>
+<!-- Project 1 -->
+<td align="center" width="33%">
+  
+  <h3>Date difference library</h3>
 
-### ⭐ **1. date-difference-lib**
-This library provides a function to calculate the difference between two dates in years, months, and days.
+  <a href="https://github.com/kartik1211/date-difference-lib">
+    <img src="https://img.shields.io/github/stars/kartik1211/date-difference-lib?style=for-the-badge" />
+  </a>
 
-**Tech:** JavaScript  
-**Repo:** [Date time difference JS library](https://github.com/kartik1211/date-difference-lib)  
-**Live Demo / npm:** [Date time difference JS library](https://www.npmjs.com/package/date-difference-lib?activeTab=readme)
+  <a href="https://github.com/kartik1211/date-difference-lib/">
+<img src="https://img.shields.io/npm/dt/date-difference-lib?style=for-the-badge&color=brightgreen" />
+  </a>
 
----
+  <br/><br/>
 
-### ⭐ **2. Angular-4-Social-Media**
-MEAN Stack application using Angular 4.0
+  <img src="IMAGE_URL_1" width="250" />
 
-**Tech:** Angular, NodeJS, JWT Authentication 
-**Repo:** [Angular Social Media Project](https://github.com/kartik1211/Angular-4-Social-Media)
+</td>
 
----
+<!-- Project 2 -->
+<td align="center" width="33%">
+  
+  <h3>Angular-4-Social-Media</h3>
 
-### ⭐ **3. React JS Basic**
-Basic React Project.
+  <a href="[https://github.com/kartik1211/Angular-4-Social-Media](https://github.com/kartik1211/Angular-4-Social-Media)">
+    <img src="https://img.shields.io/github/stars/kartik1211/Angular-4-Social-Media?style=for-the-badge" />
+  </a>
 
-**Tech:** ReactJS  
-**Repo:** [ReactJSProject](https://github.com/kartik1211/ReactJS-Project)
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2/releases">
+    <img src="https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO_2/total?color=brightgreen&style=for-the-badge" />
+  </a>
 
+  <br/><br/>
+
+  <img src="IMAGE_URL_2" width="250" />
+
+</td>
+
+<!-- Project 3 -->
+<td align="center" width="33%">
+
+  <h3>React JS Basic</h3>
+
+  <a href="[https://github.com/YOUR_USERNAME/YOUR_REPO_3](https://github.com/kartik1211/ReactJS-Project)">
+    <img src="https://img.shields.io/github/stars/kartik1211/ReactJS-Project?style=for-the-badge" />
+  </a>
+
+  <br/><br/>
+
+  <img src="IMAGE_URL_3" width="250" />
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## ⚙️ Tech Stack
